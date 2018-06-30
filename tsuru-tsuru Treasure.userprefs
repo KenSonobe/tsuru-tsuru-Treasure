@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{EA172025-1AB1-D0A5-3D32-2BD8F24F5AFA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/IceFloorMain.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GetAdress.cs" Line="30" Column="49" />
+      <File FileName="Assets/Scripts/IceFloorMain.cs" Line="252" Column="33" />
+      <File FileName="Assets/Scripts/Player0.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Server.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/backStart.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ICE_220FLOOR3.1 PreferredExecutionTarget="Unity.Editor" />
+</Properties>
